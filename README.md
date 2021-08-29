@@ -10,9 +10,10 @@ Code: ![ETL Clean Kaggle Data](ETL_clean_kaggle_data.ipynb)
 ## Create the Movie Database
 Code: ![ETL Create Database](ETL_create_database.ipynb)
 ## Resources
-Data: ![Wikipedia Movies Data](wikipedia-movies.json)\
-Data: ![Movies Metadata](movies_metadata.csv)\
-Data: ![MovieLens Rating Data](ratings.csv)
+### Data:
+![Wikipedia Movies Data](wikipedia-movies.json)\
+![Movies Metadata](movies_metadata.csv)\
+![MovieLens Rating Data](ratings.csv)
 ### Queries and Results:
 ![Movies Query](Resources/movies_query.PNG)\
 ![Ratings Query](Resources/ratings_query.PNG)
