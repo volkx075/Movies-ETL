@@ -1,6 +1,6 @@
 # Movies ETL
 ## Purpose
-Amazing Prime would like the dataset we created to be able to update every day. Britta needs us to create a pathway that takes in the data, then cleans the data, and then loads it into already existing tables. Since we have already created code during our Module, we just need to refactor our code to satisfy Amazing Prime's request.
+Amazing Prime would like the dataset we created to be able to update every day. Britta needs us to create a pathway that takes in the data, then cleans the data, and then loads it into already existing tables. Since we have already created code during our Module, we just need to refactor our code to create one function in order to satisfy Amazing Prime's request.
 ## Deliverable 1: Write an ETL Function to Read Three Data Files
 Code: ![ETL Function Test](ETL_function_test.ipynb)
 ## Deliverable 2: Extract and Transform the Wikipedia Data
