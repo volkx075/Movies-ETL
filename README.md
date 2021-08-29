@@ -12,6 +12,7 @@ Code: ![ETL Create Database](ETL_create_database.ipynb)
 ## Resources
 Data: ![Wikipedia Movies Data](wikipedia-movies.json)\
 Data: ![Movies Metadata](movies_metadata.csv)\
+Data: ![MovieLens Rating Data](ratings.csv)
 ### Queries and Results:
 ![Movies Query](Resources/movies_query.PNG)\
 ![Ratings Query](Resources/ratings_query.PNG)
